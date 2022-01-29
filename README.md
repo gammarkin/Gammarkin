@@ -6,7 +6,7 @@
 - 📫 How to reach me marcosrbnsf@gmail.com
 - 🚀 Currently studying at Trybe
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Gammarkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gammarkin&show_icons=true&theme=dark)
 
 - uses: Platane/snk@master
   with:
