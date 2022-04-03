@@ -10,13 +10,14 @@ Gammarkin/Gammarkin is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  ---
-### Languages and Frameworks:
+### Languages, libraries and Frameworks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
 
   
   ##
