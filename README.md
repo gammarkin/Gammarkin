@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that i can.
 - 📫 How to reach me: marcosrbnsf@gmail.com
 
-<!--- hello! -->
+<!--- well, hello! -->
 
  ---
 ### Languages, libraries and Frameworks:
@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> --->
   <img align="center" alt="Jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg">
- <!--- <img align="center" alt="bootstrap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">--->
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png">
   <img align="center" alt="Reakt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
   
   ##
