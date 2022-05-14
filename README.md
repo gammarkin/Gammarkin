@@ -1,13 +1,11 @@
 # Hi,:wave: I’m Marcos - aka Gammarkin.
 ##  Im a student, developer, and code enthusiast.
-- 👀 I’m interested in learning new things. Currently learning at Trybe 🚀.
+ I’m interested in learning new things. Currently learning web development at Trybe 🚀.
 - 💞️ I’m looking to collaborate on anything that i can.
 - 📫 How to reach me: marcosrbnsf@gmail.com
 
-<!--- well, hello! -->
-
  ---
-### Languages, libraries and Frameworks:
+## Languages, libraries and Frameworks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,8 +14,6 @@
   <img align="center" alt="Jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png">
   <img align="center" alt="Reakt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
-  
-  ##
  
  ---
   <a href = "mailto:marcosrbnsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
