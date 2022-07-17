@@ -18,6 +18,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
   <img align="center" alt="sass/scss" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
+ <img align="center" alt="docker" height="30" witdth="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
  
  ---
   <a href = "mailto:marcosrbnsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
