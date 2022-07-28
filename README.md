@@ -20,7 +20,8 @@
   <img align="center" alt="docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" />
   <img align="center" alt="mySql" height="30" witdth="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" /> 
   <img align="center" alt="node" height="30" witdth="40" src="https://blog.4linux.com.br/wp-content/uploads/2019/12/node-js-1900x950_c.png" />
-  <img align="center" alt="node" height="30" witdth="40" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"
+  <img align="center" alt="node" height="30" witdth="40" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
+   <img align="center" alt="node" height="30" witdth="40" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
   </div>
   
  ---
