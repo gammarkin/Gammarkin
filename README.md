@@ -4,8 +4,6 @@
 
 - 📫 How to reach me: marcosrbnsf@gmail.com
 
-<!-- relax -->
-
  ---
 ## Languages, libraries and Frameworks known:
 <div style="display: flex" >
