@@ -21,6 +21,7 @@
   <img align="center" alt="mocha" height="40" width="40" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
    <img align="center" alt="chai" height="40" width="40" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
    <img align="center" alt="sinon" height="40" width="40" src="https://sinonjs.org/assets/images/logo.png" />
+   <img align="center" alt="typescript" height="40" width="40" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
   </div>
   
  ---
