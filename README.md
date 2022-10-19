@@ -23,6 +23,7 @@
    <img align="center" alt="sinon" height="40" width="40" src="https://sinonjs.org/assets/images/logo.png" />
    <img align="center" alt="typescript" height="40" width="40" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
   </div>
+  <img align="center" alt="mongodb" height="40" width="40" src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" />
   
  ---
  
