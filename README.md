@@ -1,4 +1,5 @@
-# Hi,:wave: I’m Marcos - aka Gammarkin.
+<img src="header.png" />
+
 ##  Im a full-stack developer and a tech enthusiast From Brasil.
  I’m interested in learning new things.
 
