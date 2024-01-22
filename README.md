@@ -1,7 +1,6 @@
-<img src="header.png" />
+# Hi 👋, im Gammarkin 🪐!
 
 ##  Im a full-stack developer and a tech enthusiast From Brasil.
- I’m interested in learning new things.
 
 - 📫 How to reach me:   
 <a href = "mailto:marcosrbnsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
