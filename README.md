@@ -1,4 +1,4 @@
-# Hi 👋, im Gammarkin 🪐
+# Hi! 👋 Im Gammarkin 🪐
 
 ##  Im a full-stack developer and a tech enthusiast From Brasil.
 
